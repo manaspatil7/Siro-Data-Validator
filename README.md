@@ -22,7 +22,7 @@
 <img width="1815" height="870" alt="image" src="https://github.com/user-attachments/assets/423c5106-ccbf-4930-a9f3-22a5d008220c" />
 <img width="1847" height="898" alt="image" src="https://github.com/user-attachments/assets/ffcb186a-e0c3-4644-86ce-b5beef0afbff" />
 <img width="1793" height="763" alt="image" src="https://github.com/user-attachments/assets/87ed489a-01ee-4012-a47d-06f520d39043" />
-<img width="1810" height="861" alt="image" src="https://github.com/user-attachments/assets/8bd5fe37-610a-4313-a1ec-f6549b5b15c7" />
+
 
 
 
@@ -44,6 +44,7 @@
 | ⏰ **Duration Monitoring** | Catches projects exceeding 2 years | Controls scope creep & resource allocation |
 
 ### 2. 📋 Real-Time Issue Tracker
+<img width="1810" height="861" alt="image" src="https://github.com/user-attachments/assets/8bd5fe37-610a-4313-a1ec-f6549b5b15c7" />
 <img width="1761" height="491" alt="image" src="https://github.com/user-attachments/assets/16b29707-0ae8-40b6-b2a0-c5fb0306279c" />
 **Live updates • Instant feedback • Zero refresh delays**
 
