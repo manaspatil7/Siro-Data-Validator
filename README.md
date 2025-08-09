@@ -2,7 +2,7 @@
 ### Transforming Excel Data Quality Management with AI-Powered Validation
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://python.org)
-[![React](https://img.shields.io/badge/Streamlit-Dashboard-red)](https://streamlit.io)
+[![React](https://img.shields.io/badge/React-App-blue)](https://react.dev)
 [![Data Validation](https://img.shields.io/badge/Excel-Integration-green)](https://github.com/manaspatil7/siro-data-validator)
 
 > **From Boring Spreadsheets to Interactive Intelligence** 
